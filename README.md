@@ -1,16 +1,20 @@
 # expenses_app
 
-A new Flutter project.
+# images
+# Home-Page in Light mode (No Expenses)
+<img width="618" height="913" alt="HomePage-LM" src="https://github.com/user-attachments/assets/d1c49d8d-a666-4c57-b79a-732bbfee5239" />
 
-## Getting Started
+# Home-Page in Dark mode (With Expenses)
+<img width="616" height="910" alt="HomePage-DM" src="https://github.com/user-attachments/assets/7dcdf898-3135-4970-b62e-7e4105834b44" />
 
-This project is a starting point for a Flutter application.
+# Home-Page in Light mode (With Expenses)
+<img width="620" height="908" alt="HomePage-LM-E" src="https://github.com/user-attachments/assets/4ff43073-a6c3-4784-aba1-cabc5fcf098b" />
 
-A few resources to get you started if this is your first Flutter project:
+# Sub-Page to add new expense
+<img width="622" height="908" alt="Sub-Page-DM" src="https://github.com/user-attachments/assets/d1a2469a-798a-4628-96d5-7ace91a82327" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Select a date to add a new expense
+<img width="620" height="901" alt="SelectDate" src="https://github.com/user-attachments/assets/732b15a5-d73f-405b-bff9-0b3789a28c6a" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Withdraw to remove any expenses
+<img width="622" height="902" alt="DeleteItem" src="https://github.com/user-attachments/assets/aeb0b746-1819-4fd8-83f5-eda7ac5566e1" />
